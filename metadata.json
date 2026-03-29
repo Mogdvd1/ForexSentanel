@@ -1,0 +1,5 @@
+{
+  "name": "Forex Sentinel Bot",
+  "description": "A professional forex trading bot dashboard implementing a dual-SMMA crossover strategy with RSI momentum filtering and ATR-based risk management.",
+  "requestFramePermissions": []
+}
