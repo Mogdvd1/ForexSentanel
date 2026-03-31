@@ -1,5 +1,5 @@
 {
-  "name": "Forex Sentinel Bot",
-  "description": "A professional forex trading bot dashboard implementing a dual-SMMA crossover strategy with RSI momentum filtering and ATR-based risk management.",
+  "name": "Forex Strength Analyzer",
+  "description": "Analyze the 7 major currencies (USD, EUR, GBP, CAD, AUD, NZD, CHF) to identify the strongest and weakest, providing real-time trade pair suggestions.",
   "requestFramePermissions": []
 }
